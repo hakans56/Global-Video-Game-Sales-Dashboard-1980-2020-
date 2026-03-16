@@ -105,3 +105,6 @@ Practice data visualization
 Explore video game industry trends
 Analyze regional sales differences
 Build an interactive dashboard for storytelling with data
+
+***
+The decline in sales after 2016 likely reflects incomplete reporting in the dataset rather than an actual decrease in the video game market.
